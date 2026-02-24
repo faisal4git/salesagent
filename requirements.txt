@@ -1,0 +1,24 @@
+# Core API
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+
+# Speech-to-Text
+openai-whisper==20231117
+ffmpeg-python==0.2.0
+
+# ML / NLP
+torch>=2.0.0
+transformers==4.40.0
+sentence-transformers==2.6.1
+scikit-learn==1.4.2
+
+# Data handling
+numpy>=1.23.0
+pandas>=2.0.0
+
+# Background tasks / utils
+python-multipart==0.0.9
+pydantic==2.7.1
+dateparser==1.2.0
+# Optional (recommended for production)
+#accelerate==0.30.0

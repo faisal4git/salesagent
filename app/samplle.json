@@ -1,0 +1,29 @@
+{
+  "chunks": [
+    {
+      "text": "Hello sir, this is from your bank security team. We detected suspicious activity on your account.",
+      "start_time": 0,
+      "end_time": 6
+    },
+    {
+      "text": "Sir unga account la fraud activity irukku. Immediate action edukkanum.",
+      "start_time": 7,
+      "end_time": 13
+    },
+    {
+      "text": "Please share the OTP that you received on your registered mobile number to block the transaction.",
+      "start_time": 14,
+      "end_time": 22
+    },
+    {
+      "text": "OTP vandhuchuna sollunga sir, illatti amount debit aagum.",
+      "start_time": 23,
+      "end_time": 30
+    },
+    {
+      "text": "Do not disconnect the call until verification is completed.",
+      "start_time": 31,
+      "end_time": 36
+    }
+  ]
+}
